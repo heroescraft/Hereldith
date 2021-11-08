@@ -1,0 +1,10 @@
+{
+	"name":"Healer",
+	"owner":"Ruko",
+	"type":"Potions",
+	"description":"I can give you potions for a price.",
+	"wares":{
+		"Health Potion":{"price":10},
+		"Mystery Potion":{"price":15}
+	}
+}

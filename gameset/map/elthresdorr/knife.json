@@ -1,0 +1,10 @@
+{
+	"name":"Knives",
+	"owner":"Hempkin",
+	"type":"Weapons",
+	"description":"We sell knives.",
+	"wares":{
+		"Little Knife":{"price":5},
+		"Black Dagger":{"price":9}
+	}
+}

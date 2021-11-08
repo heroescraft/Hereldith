@@ -1,0 +1,11 @@
+{
+	"name":"Regrimage",
+	"owner":"Unknown",
+	"type":"Unknown",
+	"description":"We sell things that shouldn't exist.",
+	"wares":{
+		"Mystery Potion":{"price":10},
+		"Regrim":{"price":50},
+		"Long Stick":{"price":2}
+	}
+}

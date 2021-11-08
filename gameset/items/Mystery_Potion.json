@@ -1,0 +1,5 @@
+{
+	"name":"Mystery Potion",
+	"execute":"add:health random:-5,10",
+	"lore":"Does something..."
+}

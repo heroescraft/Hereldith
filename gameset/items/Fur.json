@@ -1,0 +1,5 @@
+{
+	"name":"Fur",
+	"execute":"add:health 2",
+	"lore":"Mmm, warm cloak. Gives you +2 health."
+}

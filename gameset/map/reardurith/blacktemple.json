@@ -1,0 +1,12 @@
+{
+	"name":"Black Temple",
+	"owner":"Rearku",
+	"type":"Potions",
+	"description":"All things made in the Black Temple are finest quality!",
+	"wares":{
+		"Mystery Potion":{"price":30},
+		"Regrim":{"price":10},
+		"Golden Heart":{"price":80},
+		"Gray Powder":{"price":3}
+	}
+}
